@@ -13,7 +13,7 @@ const BootcampTemplate = () => {
           className="w-72 h-72 rounded-full object-cover border-4 border-white shadow-lg"
         />
         <p className="ml-9 text-lg leading-relaxed">
-          After graduating, I joined PT. Aigen Global Teknologi's bootcamp as a
+          After graduating, I joined PT. Aigen Global Teknologi bootcamp as a
           full-stack developer, where I gained hands-on experience with a range
           of technologies. I delved into Java and Spring Boot for backend
           development, used PostgreSQL for database management, and worked with
